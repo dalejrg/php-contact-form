@@ -7,7 +7,7 @@
 <body>
 
     <?php
-    include('contact-form.php');
+    include('./api/contact-form.php');
     ?>
 
 </body>
