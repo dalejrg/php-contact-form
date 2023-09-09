@@ -1,0 +1,24 @@
+body {
+  background-image: url("../assets/images/blue-image.jpg");
+  text-align: center;
+  font-family: "Comme", sans-serif;
+}
+
+.contact-title {
+  margin: 0 auto;
+  font-size: 40px;
+  background-color: white;
+  width: 120px;
+  height: 120px;
+  border-radius: 100%;
+}
+
+.resp-cont {
+  background-color: #13365c;
+  color: white;
+  margin: 0 auto;
+  margin-top: 8%;
+  width: 50%;
+  padding: 20px;
+  border-radius: 20px;
+}
